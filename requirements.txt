@@ -17,7 +17,6 @@ cachetools
 camera-calibration
 certifi
 cffi
-charset-normalizer
 diagnostic-analysis
 diagnostic-common-diagnostics
 diagnostic-updater
