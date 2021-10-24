@@ -62,7 +62,6 @@ pytz
 pyzmq
 regex
 requests
-resource_retriever
 rviz
 Send2Trash
 sensor-msgs
