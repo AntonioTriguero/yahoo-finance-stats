@@ -1,4 +1,4 @@
-actionlib==1.13.2
+# actionlib==1.13.2
 altair==4.1.0
 altair-data-server==0.4.1
 altair-viewer==0.3.0
