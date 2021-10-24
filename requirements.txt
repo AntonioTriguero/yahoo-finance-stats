@@ -21,17 +21,12 @@ charset-normalizer
 cycler
 imageio
 importlib-metadata
-interactive-markers
 jedi
 Jinja2
 joblib
 joint_state_publisher
 joint_state_publisher_gui
 jsonschema
-jupyter-client
-jupyter-core
-jupyterlab-pygments
-jupyterlab-widgets
 kiwisolver
 laser_geometry
 lxml
