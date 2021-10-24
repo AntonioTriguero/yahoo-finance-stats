@@ -18,7 +18,6 @@ camera-calibration
 certifi
 cffi
 charset-normalizer
-cycler
 diagnostic-analysis
 diagnostic-common-diagnostics
 diagnostic-updater
