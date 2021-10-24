@@ -1,4 +1,3 @@
-actionlib
 altair
 altair-data-server
 altair-viewer
