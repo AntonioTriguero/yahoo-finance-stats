@@ -62,7 +62,6 @@ pytz
 pyzmq
 regex
 requests
-rviz
 Send2Trash
 sensor-msgs
 six
