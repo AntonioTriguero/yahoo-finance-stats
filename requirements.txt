@@ -24,11 +24,8 @@ importlib-metadata
 jedi
 Jinja2
 joblib
-joint_state_publisher
-joint_state_publisher_gui
 jsonschema
 kiwisolver
-laser_geometry
 lxml
 MarkupSafe
 matplotlib
