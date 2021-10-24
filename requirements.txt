@@ -1,4 +1,4 @@
-# actionlib==1.13.2
+actionlib==1.13.2
 altair==4.1.0
 altair-data-server==0.4.1
 altair-viewer==0.3.0
@@ -87,6 +87,7 @@ parso==0.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.4.0
+pip==21.3
 portpicker==1.4.0
 prometheus-client==0.11.0
 prompt-toolkit==3.0.20
@@ -165,6 +166,7 @@ rqt_web==0.4.10
 rviz==1.14.9
 Send2Trash==1.8.0
 sensor-msgs==1.13.1
+setuptools==39.0.1
 six==1.16.0
 smach==2.5.0
 smach-ros==2.5.0
