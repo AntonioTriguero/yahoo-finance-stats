@@ -59,7 +59,6 @@ pyrsistent
 python-dateutil
 python-qt-binding
 pytz
-pytz-deprecation-shimpost0
 pyzmq
 regex
 requests
