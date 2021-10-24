@@ -18,10 +18,6 @@ camera-calibration
 certifi
 cffi
 charset-normalizer
-click
-controller-manager
-controller-manager-msgs
-cv-bridge
 cycler
 debugpy
 decorator
@@ -31,8 +27,6 @@ diagnostic-common-diagnostics
 diagnostic-updater
 dynamic-reconfigure
 entrypoints
-gazebo_plugins
-gazebo_ros
 gencpp
 geneus
 genlisp
