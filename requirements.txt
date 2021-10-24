@@ -21,12 +21,7 @@ charset-normalizer
 cycler
 imageio
 importlib-metadata
-int-date
 interactive-markers
-ipykernel
-ipython
-ipython-genutils
-ipywidgets
 jedi
 Jinja2
 joblib
@@ -51,7 +46,6 @@ nbconvert
 nbformat
 nest-asyncio
 nltk
-notebook
 numpy
 packaging
 pandas
@@ -76,10 +70,6 @@ python-qt-binding
 pytz
 pytz-deprecation-shimpost0
 pyzmq
-qt-dotgraph
-qt-gui
-qt-gui-cpp
-qt-gui-py-common
 regex
 requests
 resource_retriever
