@@ -21,7 +21,6 @@ charset-normalizer
 cycler
 debugpy
 decorator
-defusedxml
 diagnostic-analysis
 diagnostic-common-diagnostics
 diagnostic-updater
