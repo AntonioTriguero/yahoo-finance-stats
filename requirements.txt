@@ -20,7 +20,6 @@ cffi
 charset-normalizer
 cycler
 debugpy
-decorator
 diagnostic-analysis
 diagnostic-common-diagnostics
 diagnostic-updater
