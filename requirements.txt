@@ -30,7 +30,6 @@ lxml
 MarkupSafe
 matplotlib
 matplotlib-inline
-message-filters
 mistune
 multitasking
 nbclient
