@@ -17,9 +17,8 @@ cachetools
 camera-calibration
 certifi
 cffi
-diagnostic-analysis
-diagnostic-common-diagnostics
-diagnostic-updater
+charset-normalizer
+cycler
 dynamic-reconfigure
 entrypoints
 gencpp
