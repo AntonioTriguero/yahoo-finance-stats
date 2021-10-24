@@ -19,7 +19,6 @@ certifi
 cffi
 charset-normalizer
 cycler
-debugpy
 diagnostic-analysis
 diagnostic-common-diagnostics
 diagnostic-updater
