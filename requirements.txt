@@ -64,8 +64,6 @@ regex
 requests
 Send2Trash
 six
-smclib
-smmap
 soupsieve
 stockstats
 streamlit
